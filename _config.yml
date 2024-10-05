@@ -11,9 +11,9 @@ title                    : "Shengtao Wen"  # 站点标题
 title_separator          : "-"  # 标题分隔符
 name                     : &name "Shentao Wen"  # 站点所有者的名字
 description              : &description "Wen's Personal homepage"  # 站点描述
-url                      : https://academicpages.github.io  # 站点的基础 URL，包含协议部分，例如 "https://mmistakes.github.io"
+url                      : https://watsontao.github.io/  # 站点的基础 URL，包含协议部分，例如 "https://mmistakes.github.io"
 baseurl                  : ""  # 站点的子路径，例如 "/blog"
-repository               : "academicpages/academicpages.github.io"  # 站点的代码仓库地址
+repository               : "Watsontao/Watsontao.github.io"  # 站点的代码仓库地址
 
 # 站点作者 - 以下设置将控制出现在侧边栏的作者内容。
 # 如果字段为空，则不会显示相应的图标和链接，反之会显示。
@@ -21,10 +21,11 @@ repository               : "academicpages/academicpages.github.io"  # 站点的�
 
 author:
   # 个人信息
-  avatar           : "profile.png"  # 头像的文件名
+  avatar           : "zhengjianzhao.png"  # 头像的文件名
   name             : "Shengtao Wen"  # 作者名字
   pronouns         : # 例如: "he/his"  # 性别代词
-  bio              : ""  # 左侧边栏的简短个人简介
+  bio              : "I am a 2021 undergraduate student majoring in software engineering at the School of Computer and 
+                     Communication at Lanzhou University of Technology"  # 左侧边栏的简短个人简介
   location         : "Lanzhou, Gansu, China"  # 所在地
   employer         : "Lanzhou University of Technology"  # 当前就职单位
   uri              : # URL  # 个人主页链接
