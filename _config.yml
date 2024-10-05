@@ -31,56 +31,41 @@ author:
   email            : "lutshengtao@163.com"  # 电子邮箱
 
   # 学术网站
-  arxiv            : # URL - 更新为你的个人链接
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"  # Google Scholar 链接
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"  # ORCID 链接
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"  # PubMed 个人链接
-  researchgate     : # URL
+  #arxiv            : # URL - 更新为你的个人链接
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"  # Google Scholar 链接
+  #impactstory      : # URL
+  #orcid            : "http://orcid.org/yourorcidurl"  # ORCID 链接
+  #semantic         : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"  # PubMed 个人链接
+  #researchgate     : # URL
 
   # 代码仓库和软件开发
-  bitbucket        : # 用户名 - 更新为你在该站点的用户名
-  codepen          : # 用户名
-  dribbble         : # 用户名
-  github           : "academicpages"  # GitHub 用户名
-  kaggle           : # 用户名  
-  stackoverflow    : # 用户编号或用户名编号 (例如, 使用 "1" 或 "1/jeff-atwood")    
+  #bitbucket        : # 用户名 - 更新为你在该站点的用户名
+  #codepen          : # 用户名
+  #dribbble         : # 用户名
+  #github           : "academicpages"  # GitHub 用户名
+  #kaggle           : # 用户名  
+  #stackoverflow    : # 用户编号或用户名编号 (例如, 使用 "1" 或 "1/jeff-atwood")    
 
   # 社交媒体
-  bluesky          : "bsky.app"  # 将此替换为你的 Bluesky 用户名
-  facebook         : # 用户名
-  flickr           : # 用户名
-  foursquare       : # 用户名
-  goodreads        : # 用户名
-  google_plus      : # 用户名
-  keybase          : # 用户名
-  instagram        : # 用户名
-  lastfm           : # 用户名
-  linkedin         : # 用户名
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # 用户名
-  soundcloud       : # 用户名
-  steam            : # 用户名
-  telegram         : # URL
-  tumblr           : # 用户名
-  twitter          : # X / Twitter 用户名
-  vine             : # 用户名
-  weibo            : # 用户名
-  wikipedia        : # 用户名
-  xing             : # 用户名
-  youtube          : # 用户名
-  zhihu            : # 用户名
+  #bluesky          : "bsky.app"  # 将此替换为你的 Bluesky 用户名
+  #facebook         : # 用户名
+  #flickr           : # 用户名
+  #foursquare       : # 用户名
+  #goodreads        : # 用户名
+  #google_plus      : # 用户名
+  #keybase          : # 用户名
+  #weibo            : # 用户名
+  #zhihu            : # 用户名
 
 # 出版物类别 - 以下为出版物类别列表及其标题
-publication_category:
-  books:
-    title: 'Books'  # 书籍
-  manuscripts:
-    title: 'Journal Articles'  # 期刊文章   
-  conferences:
-    title: 'Conference Papers'  # 会议论文
+# publication_category:
+  # books:
+    # title: 'Books'  # 书籍
+  # manuscripts:
+    # title: 'Journal Articles'  # 期刊文章   
+  # conferences:
+    # title: 'Conference Papers'  # 会议论文
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
