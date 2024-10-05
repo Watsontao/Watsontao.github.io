@@ -1,86 +1,86 @@
-# Welcome to Jekyll!
+# 欢迎使用 Jekyll!
 #
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
+# 此配置文件用于影响整个站点的设置，这些值通常只需设置一次，之后很少需要编辑。
+# 由于技术原因，当你使用 `jekyll serve -l -H localhost` 时，此文件不会自动重新加载。
+# 如果你更改了此文件，请重新启动服务器进程。
 
-# Basic Site Settings
-locale                   : "兰州理工大学"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "文胜涛"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+# Basic Site Settings 
+# 基本站点信息
+locale                   : "Lanzhou University of Technology"  # 设置站点的语言环境
+title                    : "Your Name / Site Title"  # 站点标题
+title_separator          : "-"  # 标题分隔符
+name                     : &name "Shentao Wen"  # 站点所有者的名字
+description              : &description "Wen's Personal homepage"  # 站点描述
+url                      : https://academicpages.github.io  # 站点的基础 URL，包含协议部分，例如 "https://mmistakes.github.io"
+baseurl                  : ""  # 站点的子路径，例如 "/blog"
+repository               : "academicpages/academicpages.github.io"  # 站点的代码仓库地址
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# 站点作者 - 以下设置将控制出现在侧边栏的作者内容。
+# 如果字段为空，则不会显示相应的图标和链接，反之会显示。
+# 更多自定义可以通过编辑 /_includes/author-profile.html 实现。
+
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  # 个人信息
+  avatar           : "profile.png"  # 头像的文件名
+  name             : "Shengtao Wen"  # 作者名字
+  pronouns         : # 例如: "he/his"  # 性别代词
+  bio              : ""  # 左侧边栏的简短个人简介
+  location         : "Lanzhou, Gansu, China"  # 所在地
+  employer         : "Lanzhou University of Technology"  # 当前就职单位
+  uri              : # URL  # 个人主页链接
+  email            : "lutshengtao@163.com"  # 电子邮箱
 
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # 学术网站
+  arxiv            : # URL - 更新为你的个人链接
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"  # Google Scholar 链接
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/yourorcidurl"  # ORCID 链接
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"  # PubMed 个人链接
   researchgate     : # URL
 
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  # 代码仓库和软件开发
+  bitbucket        : # 用户名 - 更新为你在该站点的用户名
+  codepen          : # 用户名
+  dribbble         : # 用户名
+  github           : "academicpages"  # GitHub 用户名
+  kaggle           : # 用户名  
+  stackoverflow    : # 用户编号或用户名编号 (例如, 使用 "1" 或 "1/jeff-atwood")    
 
-  # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
+  # 社交媒体
+  bluesky          : "bsky.app"  # 将此替换为你的 Bluesky 用户名
+  facebook         : # 用户名
+  flickr           : # 用户名
+  foursquare       : # 用户名
+  goodreads        : # 用户名
+  google_plus      : # 用户名
+  keybase          : # 用户名
+  instagram        : # 用户名
+  lastfm           : # 用户名
+  linkedin         : # 用户名
   mastodon         : # URL
   medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
+  pinterest        : # 用户名
+  soundcloud       : # 用户名
+  steam            : # 用户名
   telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  tumblr           : # 用户名
+  twitter          : # X / Twitter 用户名
+  vine             : # 用户名
+  weibo            : # 用户名
+  wikipedia        : # 用户名
+  xing             : # 用户名
+  youtube          : # 用户名
+  zhihu            : # 用户名
 
-# Publication Category - The following the list of publication categories and their headings
+# 出版物类别 - 以下为出版物类别列表及其标题
 publication_category:
   books:
-    title: 'Books'
+    title: 'Books'  # 书籍
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'  # 期刊文章   
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference Papers'  # 会议论文
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
