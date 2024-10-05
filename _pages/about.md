@@ -1,6 +1,6 @@
 ---
 permalink: /         # 设置该页面的永久链接为网站的根目录
-title: "About me - Wen, Shengtao（文胜涛）"    # 页面标题，显示在浏览器标签或页面顶部
+title: "About me"    # 页面标题，显示在浏览器标签或页面顶部
 author_profile: true # 是否显示作者简介（可能在页面侧边栏或文章底部）
 redirect_from:       # 设置从其他链接重定向到该页面
   - /about/          # 重定向自 /about/
@@ -8,7 +8,8 @@ redirect_from:       # 设置从其他链接重定向到该页面
 
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://jitong.lut.edu.cn/), [Lanzhou University of Technology](https://www.lut.edu.cn/). 
+
+I'm a third year undergraduate student majoring in software engineering at the [School of Computer and Communication](https://jitong.lut.edu.cn/),  [Lanzhou University of Technology](https://www.lut.edu.cn/).
 
 
 
