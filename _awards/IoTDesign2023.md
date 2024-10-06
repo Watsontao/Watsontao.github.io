@@ -1,6 +1,6 @@
 ---
 title: 'IoT Design Competition 2023'  # 获奖名称
-date: 2023-08-028                             # 获奖时间
+date: 2023-08-28                             # 获奖时间
 collection: awards  # 告诉 Jekyll 这是 awards 集合的一部分
 tags:
   - award
