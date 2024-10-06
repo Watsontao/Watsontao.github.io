@@ -1,5 +1,5 @@
 ---
-title: 'ICT'  # 获奖名称
+title: 'huawei-ict-competition-global-award'  # 获奖名称
 date: 2024-05-05                             # 获奖时间
 collection: awards  # 告诉 Jekyll 这是 awards 集合的一部分
 tags:
