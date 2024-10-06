@@ -9,10 +9,3 @@ tags:
 award_recipient: 'Zhang Hongxia, Wen Shengtao, Wu Zonghan'               # 获奖人
 ---
 
-
-
-
-**获奖人**: Wen Shengtao  
-**时间**: 2024年5月  
-**描述**:  
-test
