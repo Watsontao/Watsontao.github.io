@@ -1,11 +1,11 @@
 ---
-title: '2024 能源经济学术创意大赛 省级二等奖'  
+title: '2024 全国大学生能源经济学术创意大赛 省级二等奖'  
 date: 2024-04-01                             
 collection: awards  
-award_recipient: 'Wen Shengtao, Zhang Ming'               
+award_recipient: 'Wen Shengtao'               
 ---
 
-Second Prize in the 2024 Energy Economics Academic Innovation Competition
+
 
 
 **获奖人**: Wen Shengtao, Zhang Ming  

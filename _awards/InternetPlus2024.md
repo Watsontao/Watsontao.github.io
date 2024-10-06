@@ -1,11 +1,11 @@
 ---
-title: '2024 中国“互联网+”大学生创新创业大赛 国家铜奖'  
+title: '2024 中国国际“互联网+”大学生创新创业大赛 国家铜奖'  
 date: 2024-01-01                             
 collection: awards  
-award_recipient: 'Wen Shengtao, Zhang Ming'               
+award_recipient: 'Wen Shengtao'               
 ---
 
-Bronze Medal in the 2024 National "Internet+" Innovation and Entrepreneurship Competition
+
 
 **获奖人**: Wen Shengtao, Zhang Ming  
 **时间**: 2024年1月  
