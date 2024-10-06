@@ -11,7 +11,7 @@ title                    : "Wen, Shengtao（文胜涛）"  # 站点标题
 title_separator          : "-"  # 标题分隔符
 name                     : &name "Shentao Wen"  # 站点所有者的名字
 description              : &description "Wen's Personal homepage"  # 站点描述
-url                      : https://watsontao.github.io/  # 站点的基础 URL，包含协议部分，例如 "https://mmistakes.github.io"
+url                      : https://watsontao.github.io  # 站点的基础 URL，包含协议部分，例如 "https://mmistakes.github.io"
 baseurl                  : ""  # 站点的子路径，例如 "/blog"
 repository               : "Watsontao/Watsontao.github.io"  # 站点的代码仓库地址
 
