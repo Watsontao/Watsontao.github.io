@@ -208,9 +208,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  awards:  # 添加新的 awards 集合
+  awards:                                # 添加新的 awards 集合
     output: true
-    permalink: /awards/:title/  # 定义 awards 页面 URL 的格式
+    permalink: /awards/:title/        # 定义 awards 页面 URL 的格式
 
 
 # These settings control how pages and collections are included in the site
