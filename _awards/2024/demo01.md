@@ -1,7 +1,7 @@
 ---
 title: 'Huawei ICT Competition Global Award'  # 获奖名称
 date: 2024-05-05                             # 获奖时间
-permalink: /awards/2024/ict/  # 自定义永久链接
+permalink: /awards/2023/huawei-ict-competition/  # 自定义永久链接
 tags:
   - award
   - huawei
