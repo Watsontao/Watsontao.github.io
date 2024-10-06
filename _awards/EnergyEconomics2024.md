@@ -8,7 +8,3 @@ award_recipient: 'Wen Shengtao'
 
 
 
-**获奖人**: Wen Shengtao, Zhang Ming  
-**时间**: 2024年4月  
-**描述**:  
-2024年能源经济学术创意大赛省级二等奖

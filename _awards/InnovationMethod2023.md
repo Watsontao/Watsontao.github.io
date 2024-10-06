@@ -6,7 +6,4 @@ award_recipient: 'Wen Shengtao'
 ---
 
 
-**获奖人**: Wen Shengtao, Zhang Ming  
-**时间**: 2023年9月  
-**描述**:  
-2023年甘肃省大学生创新方法大赛省级二等奖
+

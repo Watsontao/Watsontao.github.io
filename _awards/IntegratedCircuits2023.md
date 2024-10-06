@@ -6,8 +6,3 @@ award_recipient: 'Wen Shengtao'
 ---
 
 
-
-**获奖人**: Wen Shengtao, Zhang Ming  
-**时间**: 2023年8月  
-**描述**:  
-2023年全国大学生集成电路创新创业大赛西北赛区三等奖

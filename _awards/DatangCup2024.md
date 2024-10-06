@@ -7,7 +7,3 @@ award_recipient: 'Yu Kangqi, Wen Shengtao'
 
 
 
-**获奖人**: Wen Shengtao, Zhang Ming  
-**时间**: 2024年5月  
-**描述**:  
-2024年大唐杯全国大学生新一代信息通信技术大赛省级二等奖

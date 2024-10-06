@@ -6,8 +6,3 @@ award_recipient: 'Wen Shengtao'
 ---
 
 
-
-**获奖人**: Wen Shengtao, Zhang Ming  
-**时间**: 2023年12月  
-**描述**:  
-2023年全国大学生数字媒体科技作品及创意竞赛国家三等奖

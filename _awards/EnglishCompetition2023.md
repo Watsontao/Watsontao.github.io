@@ -7,7 +7,3 @@ award_recipient: 'Wen Shengtao'
 
 
 
-**获奖人**: Wen Shengtao  
-**时间**: 2023年3月  
-**描述**:  
-2023年大学生英语竞赛三等奖
