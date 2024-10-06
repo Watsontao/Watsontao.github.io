@@ -26,17 +26,31 @@
           alt="">
       </div>
     {% endif %}
+    
     <h3 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
+      {{ title }} <!-- 取消了链接，不再用 <a> 标签 -->
     </h3>
+    
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+    
+    {% if post.venue%}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p>
+    {% endif %}
     </li>
- </article>
+  </article>
 </div>
+
+<style>
+  /* 禁止标题文本的下划线 */
+  .archive__item-title {
+    text-decoration: none; /* 确保不会有下划线 */
+    cursor: default;       /* 鼠标悬停时不显示指针样式 */
+  }
+
+  /* 禁止鼠标悬停时任何文本的下划线 */
+  .archive__item-title:hover {
+    text-decoration: none; /* 确保在悬停时也没有下划线 */
+  }
+</style>
