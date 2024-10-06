@@ -66,9 +66,10 @@
     text-decoration: none !important;
   }
   .archive__item-title {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    white-space: nowrap; /* 防止自动换行 */
+    overflow: visible;   /* 确保所有内容可见 */
+    text-overflow: initial; /* 不显示省略号 */
 }
+
 
 </style>
